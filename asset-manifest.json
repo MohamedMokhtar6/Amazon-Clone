@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/MohamedMokhtar6.github.io/Amazon-Clone/static/css/main.3a41a60b.css",
+    "main.js": "/MohamedMokhtar6.github.io/Amazon-Clone/static/js/main.a584c9a1.js",
+    "static/media/pro1.png": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/pro1.0e9179ef105e3285f2a9.png",
+    "static/media/pro5.png": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/pro5.c054982bc3ea043fcc6f.png",
+    "static/media/pro3.png": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/pro3.81c438ff0803654e6dce.png",
+    "static/media/pro2.png": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/pro2.a4fa1a06f669eada7669.png",
+    "static/media/pro4.png": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/pro4.5886b87d48272be90e5f.png",
+    "static/media/fa-solid-900.ttf": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/slid3.png": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/slid3.49f09e84330bc481d0cc.png",
+    "static/media/fa-brands-400.ttf": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fa-solid-900.woff2": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/slid2.jpg": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/slid2.efbb012eca96acc631d4.jpg",
+    "static/media/slid1.jpg": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/slid1.bcee394f6954bf0eeca4.jpg",
+    "static/media/fa-brands-400.woff2": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/ad.jpg": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/ad.9bec4f14e646e7807a47.jpg",
+    "static/media/fa-regular-400.ttf": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/logo.png": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/logo.f086138c3cda00d2cb32.png",
+    "static/media/fa-regular-400.woff2": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/logo2.png": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/logo2.7ab7df7af83e1f2291f4.png",
+    "static/media/fa-v4compatibility.ttf": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/MohamedMokhtar6.github.io/Amazon-Clone/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "index.html": "/MohamedMokhtar6.github.io/Amazon-Clone/index.html",
+    "main.3a41a60b.css.map": "/MohamedMokhtar6.github.io/Amazon-Clone/static/css/main.3a41a60b.css.map",
+    "main.a584c9a1.js.map": "/MohamedMokhtar6.github.io/Amazon-Clone/static/js/main.a584c9a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a41a60b.css",
+    "static/js/main.a584c9a1.js"
+  ]
+}
